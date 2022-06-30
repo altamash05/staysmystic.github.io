@@ -1,0 +1,47 @@
+@charset "utf-8";
+.text-center {
+    background-color: #196977;
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 40px;
+}
+.container-fluid .container p {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.carousel-item .carousel-caption h5 {
+    background-color: #0F4D74;
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.carousel-item .carousel-caption p {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+.container-fluid .container #carouselExampleIndicators1 {
+    background-color: #0095A2;
+}
+.container-fluid h1 {
+    font-size: 18px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.row .col-lg-4 h1 {
+}
+.row .col-lg-4 p {
+}
+.container-fluid footer .row {
+    background-color: #0E834B;
+}
+.row .col-lg-4 h1 {
+    color: #FBFBFB;
+}
+.row .col-lg-4 p {
+    color: #FFFFFF;
+}
+footer .row .col-lg-6 {
+    color: #FFFFFF;
+}
+.row .col-lg-4 img {
+
+}
